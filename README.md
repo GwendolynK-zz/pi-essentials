@@ -1,4 +1,4 @@
-## Install all the necessary functions and commands in this one repo
+## Install all the necessary functions and commands in this one repo.
 
 <br>
 <br>
